@@ -1,0 +1,7 @@
+How to run:
+
+-	Compile if not already with gcc disk.c fs.c –o main  and other header files
+-	Run with ./main
+-	Enter r to make disk or reset it for the first time.
+
+ 
