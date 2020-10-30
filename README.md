@@ -1,2 +1,2 @@
 # Unix-Simple-File-System
-It is a Unix file system project in c language for OS course in my sophomore year. 
+It is a Unix file system project in c language for OS course.
